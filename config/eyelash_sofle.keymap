@@ -47,6 +47,7 @@
 &soft_off { hold-time-ms = <2000>; };
 
 &lt {
+    bindings = <&kp>, <&kp>;
 };
 
 / {
