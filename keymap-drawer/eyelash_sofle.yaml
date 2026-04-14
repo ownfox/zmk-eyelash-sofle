@@ -63,7 +63,7 @@ layers:
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:backspace$$', type: backspace}
-  - {t: 'Gui+$$mdi:keyboard-space$$', h: Navigation}
+  - {t: RIGHT GUI, h: Navigation}
   - RGB
   Navigation:
   - {t: '-', s: _}
